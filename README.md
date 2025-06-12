@@ -2,7 +2,7 @@
 
 I'm Adrian, welcome to my GitHub profile!
 
-## 🐍 Contribution Snake Animation
+## 🐍 
 
 ![Snake animation](https://raw.githubusercontent.com/adspiceprospice/adspiceprospice/output/github-contribution-grid-snake.svg)
 
